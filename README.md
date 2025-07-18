@@ -82,6 +82,13 @@ Race
 You can upload a CSV file with multiple entries. The app will return predictions and let you download the results.
 
 CSV must match model input columns.
+---
+## 🚫 License
+
+This project is **not licensed for public use, modification, or distribution**.  
+All rights reserved © 2025 Mohit Jain.
+
+If you'd like to use this work, contact me directly.
 
 ---
 ## 🙋‍♂️ Author
