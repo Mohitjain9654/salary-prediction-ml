@@ -82,6 +82,7 @@ You can upload a CSV file with multiple entries. The app will return predictions
 
 CSV must match model input columns.
 ---
+---
 ## 🙋‍♂️ Author
 
 Built with ❤️ by Mohit Jain
