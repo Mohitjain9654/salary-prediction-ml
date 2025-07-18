@@ -78,6 +78,7 @@ Race
 ```
 ---
 ### 📂 Batch Prediction
+
 You can upload a CSV file with multiple entries. The app will return predictions and let you download the results.
 
 CSV must match model input columns.
