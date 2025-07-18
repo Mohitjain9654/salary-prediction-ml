@@ -80,8 +80,18 @@ Race
 ### 📂 Batch Prediction
 You can upload a CSV file with multiple entries. The app will return predictions and let you download the results.
 
-**CSV must match model input columns.**
+CSV must match model input columns.
 ---
 ## 🙋‍♂️ Author
 
 Built with ❤️ by Mohit Jain
+
+
+Feel free to connect or collaborate!
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mohit-jain-dev/)  
+- 💻 [GitHub](https://github.com/Mohitjain9654)  
+- 🌐 [Portfolio Website](https://mohitjain-portfolio.vercel.app/)  
+- 📧 Email: mohitjain965405@gmail.com
+
+---
