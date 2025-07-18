@@ -50,17 +50,17 @@ git clone https://github.com/Mohitjain9654/salary-prediction-ml
 cd salary-prediction-ml
 ```
 
-###2️⃣ Install requirements
+### 2️⃣ Install requirements
 ```bash
 pip install -r requirements.txt
 ```
-###3️⃣ Run the app
+### 3️⃣ Run the app
 ```bash
 streamlit run app.py
 ```
 
 ---
-###🖼️ Example Input Features
+### 🖼️ Example Input Features
 ```text
 Age
 Workclass
@@ -77,10 +77,11 @@ fnlwgt
 Race
 ```
 ---
-###📂 Batch Prediction
+### 📂 Batch Prediction
 You can upload a CSV file with multiple entries. The app will return predictions and let you download the results.
 
-**CSV must match model input columns.**
+***CSV must match model input columns.***
 ---
-🙋‍♂️ Author
+### 🙋‍♂️ Author
+
 Built with ❤️ by Mohit Jain
